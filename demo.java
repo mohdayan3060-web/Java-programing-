@@ -24,5 +24,16 @@ public class demo {
         char latter = 'A';
         System.out.println(latter);
 
+        //Dealing with negative numbers 
+        byte negnum=-42;
+        System.out.println(negnum);
+
+
+        //floating  values 
+        float fvalue=0.7f;
+        float fvalue02=8.125f;
+
+        System.out.println(fvalue);
+        System.out.println(fvalue02);
     }
 }
