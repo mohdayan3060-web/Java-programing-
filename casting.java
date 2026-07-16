@@ -35,7 +35,7 @@ public  class casting{
 
        //Automatic type promotions 
        byte nums=50;
-       nums=(byte)(50*2);
+       nums=(byte)(nums*2);
        System.out.println(nums);
 
     }
