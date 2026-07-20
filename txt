@@ -1,11 +1,4 @@
-That's a great milestone! Since you've completed:
 
-* ✅ Conditional Statements (`if`, `if-else`, `switch`)
-* ✅ Loops (`for`, `while`, `do-while`)
-* ✅ Functions (Methods)
-* ✅ Recursion
-
-Here are **50 carefully selected Java coding questions** arranged from **Good → Challenging** level. If you solve all of these without looking at solutions, you'll build a very strong foundation.
 
 ---
 
